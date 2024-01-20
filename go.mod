@@ -1,4 +1,4 @@
-module github.com/gosimple/slug
+module github.com/cpouldev/slug
 
 go 1.11
 
